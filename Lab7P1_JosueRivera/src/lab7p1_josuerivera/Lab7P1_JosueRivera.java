@@ -19,7 +19,7 @@ static Random rand = new Random();
     public static void main(String[] args) {
         System.out.println("//////menu//////");
         System.out.println("1. tres en raya ");
-        System.out.println("2. ");
+        System.out.println("2. puntos de silla");
         System.out.println("3.salir ");
         System.out.println("introduce su opcion");
         int opcion = sc.nextInt();
@@ -120,7 +120,7 @@ static Random rand = new Random();
             }
             System.out.println("//////menu//////");
             System.out.println("1.tres en raya ");
-            System.out.println("2. ");
+            System.out.println("2. puntos de silla");
             System.out.println("3.salir");
             System.out.println("introduce su opcion");
             
